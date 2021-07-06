@@ -1,0 +1,21 @@
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+}
+.segundo{
+    float:right;
+
+}
+.section-container{
+    max-width: 50%;
+   
+}
